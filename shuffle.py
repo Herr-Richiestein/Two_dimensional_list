@@ -10,6 +10,7 @@ class GetShuffle:
             my_list.append(char)
         print(my_list)
         d = my_list.__getitem__(2)
+        my_list.index()
         for j in my_list:
             k = my_list[j]
         return my_list, my_list[2]
