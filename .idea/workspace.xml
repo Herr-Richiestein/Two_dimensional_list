@@ -4,26 +4,104 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a30aee4-1e6b-40a5-bc7d-81d4eac9e9c3" name="Changes" comment="bi" />
+    <list default="true" id="2a30aee4-1e6b-40a5-bc7d-81d4eac9e9c3" name="Changes" comment="bi">
+      <change afterPath="$PROJECT_DIR$/shuffle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "flutter-lord"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/flutter-lord/Two_dimensional_list.git",
     "accountId": "83fd1351-675b-4cb6-b2fd-28e3b53b3d5c"
   }
 }]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1691415762182076" />
+      <entry key="MS500" value="2.1988787969970756" />
+      <entry key="S2" value="2.758284433985149" />
+      <entry key="S5" value="2.9009764241388853" />
+      <entry key="S10" value="3.1006363685240745" />
+      <entry key="S30" value="7.411949219989298" />
+      <entry key="S60" value="15.288369122366435" />
+      <entry key="M2" value="24.684415760046583" />
+      <entry key="M5" value="34.13881462475785" />
+      <entry key="M10" value="38.259734759503125" />
+      <entry key="M15" value="39.76630037628433" />
+      <entry key="M30" value="41.345132032587586" />
+      <entry key="H1" value="42.162817862955706" />
+      <entry key="H2" value="42.57894072232528" />
+      <entry key="H4" value="42.78884936664633" />
+      <entry key="D1" value="42.96472164177778" />
+      <entry key="W1" value="42.9949581096604" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="6.810692128330895E-170" />
+      <entry key="MS500" value="1.6319014069024927E-34" />
+      <entry key="S2" value="5.493648528690834E-9" />
+      <entry key="S5" value="7.459851970487762E-4" />
+      <entry key="S10" value="0.0385683673339695" />
+      <entry key="S30" value="0.536149403256657" />
+      <entry key="S60" value="1.035475497121564" />
+      <entry key="M2" value="1.439064929874705" />
+      <entry key="M5" value="1.7532710751095644" />
+      <entry key="M10" value="1.8725755604404097" />
+      <entry key="M15" value="1.9141216069365081" />
+      <entry key="M30" value="1.9565895991705775" />
+      <entry key="H1" value="1.9781757019545503" />
+      <entry key="H2" value="1.9890579129389228" />
+      <entry key="H4" value="1.994521451407663" />
+      <entry key="D1" value="1.9990858644492573" />
+      <entry key="W1" value="1.9998693836139456" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0711602470108579" />
+      <entry key="MS500" value="2.16435677171813" />
+      <entry key="S2" value="2.7476913943185957" />
+      <entry key="S5" value="2.897173978687121" />
+      <entry key="S10" value="3.133617558015268" />
+      <entry key="S30" value="7.9279310650622" />
+      <entry key="S60" value="16.3011167690013" />
+      <entry key="M2" value="26.1053195813849" />
+      <entry key="M5" value="35.88218481385449" />
+      <entry key="M10" value="40.12679160707354" />
+      <entry key="M15" value="41.67660467906258" />
+      <entry key="M30" value="43.29974065562872" />
+      <entry key="H1" value="44.139984360083005" />
+      <entry key="H2" value="44.56748927166815" />
+      <entry key="H4" value="44.78311493554929" />
+      <entry key="D1" value="44.96376469148682" />
+      <entry key="W1" value="44.994821372765344" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5,
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3H5D8TA7W35idILW4VIWLnseShh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -73,7 +151,7 @@
       <updated>1785148877924</updated>
       <workItem from="1785148879325" duration="693000" />
       <workItem from="1785149656730" duration="788000" />
-      <workItem from="1785150557647" duration="718000" />
+      <workItem from="1785150557647" duration="1076000" />
     </task>
     <task id="LOCAL-00001" summary="bi">
       <option name="closed" value="true" />
@@ -83,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785151162453</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bi">
+      <option name="closed" value="true" />
+      <created>1785151347084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1785151347086</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
