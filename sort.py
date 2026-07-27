@@ -1,8 +1,8 @@
-# import random
-# point = [[4, 2], [1, 7], [4, 5], [1, 2], [1, 1], [4, 1]]
-# random.shuffle(point)
-# print(point)
-# print(sorted(point))
+import random
+point = [[4, 2], [1, 7], [4, 5], [1, 2], [1, 1], [4, 1]]
+random.shuffle(point)
+print(point)
+print(sorted(point))
 
 def get_matrix():
     matrix = []
