@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a30aee4-1e6b-40a5-bc7d-81d4eac9e9c3" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/column_maximum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two_d_list.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_marking.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_marking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two_d_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/two_d_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/column_maximum.py" beforeDir="false" afterPath="$PROJECT_DIR$/column_maximum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +121,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SearchEverywhere.PersistedScope.ClassSearchEverywhereContributor": "Project Files",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
@@ -298,6 +296,6 @@
     <SUITE FILE_PATH="coverage/resuming_list$shuffles.coverage" NAME="shuffles Coverage Results" MODIFIED="1785160030423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/resuming_list$sort.coverage" NAME="sort Coverage Results" MODIFIED="1785191735680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/resuming_list$test_marking.coverage" NAME="test_marking Coverage Results" MODIFIED="1785267765574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/resuming_list$column_maximum.coverage" NAME="column_maximum Coverage Results" MODIFIED="1785282104361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/resuming_list$column_maximum.coverage" NAME="column_maximum Coverage Results" MODIFIED="1785283020226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
