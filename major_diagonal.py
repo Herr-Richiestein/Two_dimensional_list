@@ -12,6 +12,7 @@ def avg_major_diagonal(square):
 def main():
     number = int(input("Enter the number of rows which is the same as column: "))
     square = []
+
     for i in range(number):
         str_row = input(f"Enter the values for row {i}: ").split(",")
         square.append([float(x) for x in str_row])
