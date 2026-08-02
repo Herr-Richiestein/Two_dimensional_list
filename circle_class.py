@@ -31,5 +31,4 @@ def main():
     circle2.set_radius(100)
     print(f"The area of the circle of radius {circle2.get_radius()} is {circle2.get_area() : .3f}")
 
-
 main()
